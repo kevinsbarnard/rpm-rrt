@@ -30,6 +30,10 @@ python visualize.py
 ```
 There are no options for `visualize.py`.
 
+An example output of **visualize** is shown below.
+
+![Visualize output](https://github.com/kevinsbarnard/rpm-rrt/blob/master/imgs/comparison.png)
+
 ## Dependencies
 - [Python 3.7.3](https://www.python.org/)
 - [matplotlib 3.0.3](https://matplotlib.org/)
